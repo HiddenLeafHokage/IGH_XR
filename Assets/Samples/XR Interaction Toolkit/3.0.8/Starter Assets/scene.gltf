@@ -1,0 +1,898 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 824,
+      "max": [
+        1.4736000299453735,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.8314700126647949,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 9888,
+      "componentType": 5126,
+      "count": 824,
+      "max": [
+        1.0,
+        0.9999752640724182,
+        0.9999980330467224
+      ],
+      "min": [
+        -1.0,
+        -0.9999776482582092,
+        -0.9999987483024597
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 4932,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 19776,
+      "componentType": 5126,
+      "count": 824,
+      "max": [
+        1.4736000299453735,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.8314700126647949,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 29664,
+      "componentType": 5126,
+      "count": 824,
+      "max": [
+        1.0,
+        0.9999752640724182,
+        0.9999980330467224
+      ],
+      "min": [
+        -1.0,
+        -0.9999776482582092,
+        -0.9999987483024597
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 19728,
+      "componentType": 5125,
+      "count": 4932,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 39552,
+      "componentType": 5126,
+      "count": 162,
+      "max": [
+        0.7861300110816956,
+        0.9375,
+        0.8687199950218201
+      ],
+      "min": [
+        -1.0412100553512573,
+        -0.9375,
+        -0.8687199950218201
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 41496,
+      "componentType": 5126,
+      "count": 162,
+      "max": [
+        1.0,
+        0.9999998211860657,
+        0.9998198747634888
+      ],
+      "min": [
+        -1.0,
+        -0.9999998211860657,
+        -0.9998198747634888
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 39456,
+      "componentType": 5125,
+      "count": 960,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 43440,
+      "componentType": 5126,
+      "count": 228,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -2.5269200801849365,
+        -1.0,
+        -1.2972999811172485
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 46176,
+      "componentType": 5126,
+      "count": 228,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 43296,
+      "componentType": 5125,
+      "count": 1344,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 48912,
+      "componentType": 5126,
+      "count": 228,
+      "max": [
+        1.0765999555587769,
+        1.054129958152771,
+        1.0
+      ],
+      "min": [
+        -4.32696008682251,
+        -1.3631199598312378,
+        -1.118499994277954
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 51648,
+      "componentType": 5126,
+      "count": 228,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 48672,
+      "componentType": 5125,
+      "count": 1344,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 54384,
+      "componentType": 5126,
+      "count": 264,
+      "max": [
+        3.6071300506591797,
+        5.81988000869751,
+        16.685680389404297
+      ],
+      "min": [
+        -29.22907066345215,
+        -8.522509574890137,
+        -19.135480880737305
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 57552,
+      "componentType": 5126,
+      "count": 264,
+      "max": [
+        0.9994775652885437,
+        0.999269425868988,
+        0.8954418301582336
+      ],
+      "min": [
+        -0.9995603561401367,
+        -0.9995653629302979,
+        -0.9546558856964111
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 54048,
+      "componentType": 5125,
+      "count": 1548,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 60720,
+      "componentType": 5126,
+      "count": 9569,
+      "max": [
+        36.10000991821289,
+        13.804380416870117,
+        30.09259033203125
+      ],
+      "min": [
+        -37.61370849609375,
+        -5.547910213470459,
+        -27.14042091369629
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 175548,
+      "componentType": 5126,
+      "count": 9569,
+      "max": [
+        0.9999052882194519,
+        0.99996417760849,
+        0.999999463558197
+      ],
+      "min": [
+        -0.9999094009399414,
+        -0.9999647736549377,
+        -0.999999463558197
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 60240,
+      "componentType": 5125,
+      "count": 55416,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 290376,
+      "componentType": 5126,
+      "count": 522,
+      "max": [
+        12.333760261535645,
+        1.576069951057434,
+        27.882299423217773
+      ],
+      "min": [
+        -5.043889999389648,
+        -5.260009765625,
+        -1.901039958000183
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 296640,
+      "componentType": 5126,
+      "count": 522,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 281904,
+      "componentType": 5125,
+      "count": 3024,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "anggelomos (https://sketchfab.com/angelomos)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/plasmodium-d721801f75e64112a1d1a86bd5d44076",
+      "title": "Plasmodium"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 294000,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 302904,
+      "byteOffset": 294000,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 596904,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.08632177556253903,
+            0.3071551222687319,
+            0.5469729369111547,
+            1.0
+          ],
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "Blue"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.7494345424331753,
+            0.013555811730998756,
+            0.013555811730998756,
+            1.0
+          ],
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "material"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.6128662499164927,
+            0.031866779747256206,
+            0.031866779747256206,
+            1.0
+          ],
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "Tubos"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.15306789150016759,
+            0.38146334504091967,
+            0.4788319434779161,
+            1.0
+          ],
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "Inner_Dark"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.38441765455155996,
+            0.6895847966524471,
+            0.9504074916579607,
+            1.0
+          ],
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "Inner_Light"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.8556051858351028,
+            0.14224231925620243,
+            0.14224231925620243,
+            1.0
+          ],
+          "glossinessFactor": 0.561530443107557,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "Nucleo"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.7241664348743744,
+            0.5974864024638935,
+            0.12956645955897306,
+            1.0
+          ],
+          "glossinessFactor": 0.731341763862274,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "Mitocondria"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.4825242046402905,
+            0.8282921100667168,
+            0.40358495052702487,
+            1.0
+          ],
+          "glossinessFactor": 0.0,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "main"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "main_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mitocondria_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Nucleo_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Inner_Light_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Inner_Dark_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Tubos_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15
+          },
+          "indices": 17,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rojos_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18
+          },
+          "indices": 20,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Azules_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 22,
+            "POSITION": 21
+          },
+          "indices": 23,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "main"
+    },
+    {
+      "mesh": 0,
+      "name": "main_0"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        0.96731,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.96731,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.96731,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Mitocondria"
+    },
+    {
+      "mesh": 1,
+      "name": "Mitocondria_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        0.6876000000000002,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.77397,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.77798,
+        0.0,
+        -0.10753000000000001,
+        -0.018650000000000003,
+        0.05685000000000001,
+        1.0
+      ],
+      "name": "Nucleo"
+    },
+    {
+      "mesh": 2,
+      "name": "Nucleo_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        0.15690000000000004,
+        -0.0,
+        0.15064000000000002,
+        0.0,
+        0.0,
+        0.17489000000000002,
+        0.0,
+        0.0,
+        -0.24395000000000003,
+        0.0,
+        0.2541,
+        0.0,
+        0.9377000000000001,
+        -0.0,
+        0.008320000000000001,
+        1.0
+      ],
+      "name": "Inner_Light"
+    },
+    {
+      "mesh": 3,
+      "name": "Inner_Light_0"
+    },
+    {
+      "children": [
+        11
+      ],
+      "matrix": [
+        0.03217000000000001,
+        -0.0,
+        0.06916000000000003,
+        0.0,
+        0.0,
+        0.11474000000000002,
+        0.0,
+        0.0,
+        -0.23812,
+        0.0,
+        0.11078000000000002,
+        0.0,
+        0.9127400000000001,
+        -0.12942,
+        -0.06657000000000002,
+        1.0
+      ],
+      "name": "Inner_Dark"
+    },
+    {
+      "mesh": 4,
+      "name": "Inner_Dark_0"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        0.025270000000000004,
+        -0.0,
+        0.03453000000000001,
+        0.0,
+        0.0,
+        0.04279000000000001,
+        0.0,
+        0.0,
+        -0.03453000000000001,
+        0.0,
+        0.025270000000000004,
+        0.0,
+        0.4988200000000001,
+        -0.3383400000000001,
+        0.44562000000000007,
+        1.0
+      ],
+      "name": "Tubos"
+    },
+    {
+      "mesh": 5,
+      "name": "Tubos_0"
+    },
+    {
+      "children": [
+        15
+      ],
+      "matrix": [
+        0.014290000000000002,
+        -0.0024000000000000007,
+        0.012390000000000002,
+        0.0,
+        0.0,
+        0.01872,
+        0.0036200000000000013,
+        0.0,
+        -0.012620000000000001,
+        -0.0027100000000000006,
+        0.014030000000000003,
+        0.0,
+        0.09262000000000004,
+        -0.6702100000000001,
+        -0.10200000000000001,
+        1.0
+      ],
+      "name": "Rojos"
+    },
+    {
+      "mesh": 6,
+      "name": "Rojos_0"
+    },
+    {
+      "children": [
+        17
+      ],
+      "matrix": [
+        0.024940000000000004,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.024940000000000004,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.024940000000000004,
+        0.0,
+        0.29267000000000004,
+        -0.6362800000000001,
+        -0.3390200000000001,
+        1.0
+      ],
+      "name": "Azules"
+    },
+    {
+      "mesh": 7,
+      "name": "Azules_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
