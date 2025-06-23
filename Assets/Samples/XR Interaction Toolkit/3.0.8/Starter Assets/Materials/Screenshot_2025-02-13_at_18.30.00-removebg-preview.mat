@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Screenshot_2025-02-13_at_18.30.00-removebg-preview
-  m_Shader: {fileID: 4800000, guid: bebf416b17888104fb9817e020b7ba63, type: 3}
+  m_Shader: {fileID: 4800000, guid: f5c9bd938254a0e40955403cc2b95112, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
