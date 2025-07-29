@@ -5,24 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
     path: Assets/Scenes/MolecularVR_Lab.unity
     guid: 32b66d0caa1753c4ea0f06075c0dfa0e
-  - enabled: 1
-    path: Assets/Scenes/ACEGID_LAB.unity
-    guid: e8cf902e86f5c6f4f83f823592bae634
-  - enabled: 1
-    path: Assets/Scenes/Seq.unity
-    guid: dcc6030207d7174489809a59a2a1c4ad
   - enabled: 1
     path: Assets/Scenes/AcegidTour.unity
     guid: 90f33a0459c8f0d4d9fd1b74a2069aaa
   - enabled: 1
     path: Assets/Scenes/landingScene.unity
     guid: 319dafa5c80f29f428dc1e0d03f04177
+  - enabled: 1
+    path: Assets/Scenes/Sequencing.unity
+    guid: 1aa284f962e51f6469dda918ef9f92b5
+  - enabled: 1
+    path: Assets/Scenes/ACEGID_LAB 2.unity
+    guid: e1040f7f0dce82c45933d8c6637c76af
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 69ddf9a53f76bcd4fa85f20c4c94010a, type: 2}
