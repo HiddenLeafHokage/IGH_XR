@@ -1,5 +1,36 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4954950852615341761
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3610980812963414674}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3610980812963414674
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4954950852615341761}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.7267537, y: -0.46829438, z: -1.6336007}
+  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7930552183718781391}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &7603274965260748324
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -94,7 +125,10 @@ PrefabInstance:
     - {fileID: -6414444215626908735, guid: 9f0c3e771b4bd2943957b518276a8187, type: 3}
     - {fileID: 8996872610137148273, guid: 9f0c3e771b4bd2943957b518276a8187, type: 3}
     - {fileID: -2507331054643802107, guid: 9f0c3e771b4bd2943957b518276a8187, type: 3}
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 9f0c3e771b4bd2943957b518276a8187, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3610980812963414674}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 9f0c3e771b4bd2943957b518276a8187, type: 3}
       insertIndex: -1
@@ -283,7 +317,7 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
-  m_FarAttachMode: 0
+  m_FarAttachMode: 1
 --- !u!114 &5102918605538637071
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -307,3 +341,8 @@ MonoBehaviour:
   m_MinimumScaleRatio: 0.25
   m_MaximumScaleRatio: 2
   m_ScaleMultiplier: 0.25
+--- !u!4 &7930552183718781391 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 9f0c3e771b4bd2943957b518276a8187, type: 3}
+  m_PrefabInstance: {fileID: 7603274965260748324}
+  m_PrefabAsset: {fileID: 0}
